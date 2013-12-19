@@ -1,0 +1,63 @@
+test
+TF
+hacking is fun.
+t
+This program is cool.
+t
+true!
+t
+false!
+f
+trick question!
+t
+trick question!
+f
+doeos are awesome
+t
+sleep > coding
+f
+*
+test
+CUE
+Tell me a story
+no
+What is this
+It's a testing program you made to help yourself study
+Is this going to save you studying time?
+If you don't count the hours of making it, sure... maybe
+*
+music theory - beat length
+MC
+4 beats
+whole note
+2 beats
+half note
+3 beats
+dotted half note
+1 beat
+quarter note
+*
+biology - kingdom
+MC
+unicellular lifeforms
+monera 
+unicellular lifeforms who have a nucleus
+protists
+mushrooms 
+fungi
+truffles
+fungi
+trees
+plants
+grass
+plants
+flowers
+plants
+worms
+animals
+blue whales
+animals
+bald eagles
+animals
+*
+~
